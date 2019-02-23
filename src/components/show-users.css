@@ -1,0 +1,15 @@
+.show-users {
+  margin: 20px 0;
+  padding: 10px;
+  font-size: 18px;
+  border: 1px solid #999999;
+  border-radius: 10px;
+  background-color: #ffffff;
+  cursor: pointer;
+  transition-duration: 0.15s;
+}
+
+.show-users:hover {
+  background-color: #e6edfd;
+  box-shadow: 0 1px 1px 0 #000000;
+}
